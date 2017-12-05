@@ -35,10 +35,9 @@ Numpy, Pandas, Keras, Tensorflow
 <td colspan="4">
 <p>Predictive analytics using Machine learning </p>
 <p>Includes:</p>
-<ul>
-<li>  [Time series analysis of NAIA's passenger volume using LSTM Recurrent Neural Network](http://nbviewer.jupyter.org/github/renziver/Machine-Learning/blob/master/Predictive%20Analytics%20using%20Machine%20Learning/NAIA%20Passenger%20Volume%20Prediction/Time%20Series%20Prediction%20of%20NAIA%27s%20Passenger%20volume%20using%20LSTM%20Recurrent%20Neural%20Network.ipynb)</li>  
+  
+[Time series analysis of NAIA's passenger volume using LSTM Recurrent Neural Network](http://nbviewer.jupyter.org/github/renziver/Machine-Learning/blob/master/Predictive%20Analytics%20using%20Machine%20Learning/NAIA%20Passenger%20Volume%20Prediction/Time%20Series%20Prediction%20of%20NAIA%27s%20Passenger%20volume%20using%20LSTM%20Recurrent%20Neural%20Network.ipynb)
 
-</ul>
 </td>
 </tr>
 <tr>
