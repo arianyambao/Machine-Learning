@@ -10,7 +10,7 @@ personal repository for different machine learning projects and experiments that
 <td colspan="3">
 <a href="https://github.com/renziver/Data-Analysis/tree/master/Data%20Analysis%20with%20Python/">Machine Learning with Python</a>
 </td>
-</tr>
+</tr>  
 <tr>
 <td><b>Author</b></td>
 <td><b>Expertise</b></td>
@@ -47,6 +47,56 @@ Numpy, Pandas, Keras, Tensorflow
 <td colspan="4">
 <ul>
 <li>NAIA - International - Passenger volume from 2001-2016 <a href="https://github.com/renziver/Machine-Learning/blob/master/Predictive%20Analytics%20using%20Machine%20Learning/NAIA%20Passenger%20Volume%20Prediction/Dataset/naia_international_01-16.csv" target="_blank">[link]</a></li>
+</ul>
+</td>
+</tr>
+</table>
+
+<table>
+<tr></tr>
+<tr>
+<td colspan="4"><b>Project</b></td>
+</tr>
+<tr>
+<td colspan="3">
+<a href="https://github.com/renziver/Machine-Learning/tree/master/Kaggle">Kaggle Machine Learning Experiments/Projects</a>
+</td>
+</tr>  
+<tr>
+<td><b>Author</b></td>
+<td><b>Expertise</b></td>
+<td><b>Tools</b></td>
+</tr>
+<tr>
+<td>
+Renz Iver Baliber
+</td>
+<td>
+Machine Learning
+</td>
+<td>
+Python,Pandas, Sci-kit Learn 
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Description</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Kaggle Machine learning files </p>
+<p>Includes:</p>
+  
+[Titanic survival prediction using Random forests classifier](http://nbviewer.jupyter.org/github/renziver/Machine-Learning/blob/master/Kaggle/Titanic%20Prediction/Survival%20prediction%20in%20Titanic%20using%20Random%20Forests%20Classifier.ipynb)
+
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Dataset</b></td>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li>Titanic dataset <a href="https://github.com/renziver/Machine-Learning/tree/master/Kaggle/Titanic%20Prediction/Dataset" target="_blank">[link]</a></li>
 </ul>
 </td>
 </tr>
