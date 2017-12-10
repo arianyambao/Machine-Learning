@@ -130,8 +130,12 @@ Tensorflow
 </tr>
 <tr>
 <td colspan="4"><b>Description</b></td>
+
 </tr>
-Files from different Tensorflow tutorials/activities that I'm doing
 <tr>
+<td colspan="4">
+<p>Files from different Tensorflow tutorials/activities that I'm doing</p>
+  </td>
+  </tr>
 </table>
 
