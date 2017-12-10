@@ -101,3 +101,37 @@ Python,Pandas, Sci-kit Learn
 </td>
 </tr>
 </table>
+
+<table>
+<tr></tr>
+<tr>
+<td colspan="4"><b>Project</b></td>
+</tr>
+<tr>
+<td colspan="3">
+<a href="https://github.com/renziver/Machine-Learning/tree/master/TensorFlow">Tensorflow Experiments/Tutorial Files</a>
+</td>
+</tr>  
+<tr>
+<td><b>Author</b></td>
+<td><b>Expertise</b></td>
+<td><b>Tools</b></td>
+</tr>
+<tr>
+<td>
+Renz Iver Baliber
+</td>
+<td>
+Machine Learning
+</td>
+<td>
+Tensorflow
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Description</b></td>
+</tr>
+Files from different Tensorflow tutorials/activities that I'm doing
+<tr>
+</table>
+
