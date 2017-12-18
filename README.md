@@ -139,3 +139,41 @@ Tensorflow
   </tr>
 </table>
 
+<table>
+<tr></tr>
+<tr>
+<td colspan="4"><b>Project</b></td>
+</tr>
+<tr>
+<td colspan="3">
+<a href="https://github.com/renziver/Machine-Learning/tree/master/Machine%20Learning%20by%20Andrew%20Ng">Programming Assignment on Andrew Ng's Machine Learning course in coursera.</a>
+</td>
+</tr>  
+<tr>
+<td><b>Author</b></td>
+<td><b>Expertise</b></td>
+<td><b>Tools</b></td>
+</tr>
+<tr>
+<td>
+Renz Iver Baliber
+</td>
+<td>
+Machine Learning
+</td>
+<td>
+GNU Octave
+</td>
+</tr>
+<tr>
+<td colspan="4"><b>Description</b></td>
+
+</tr>
+<tr>
+<td colspan="4">
+<p>Files from different solutions on programming exercises in ML by andrew ng.</p>
+  </td>
+  </tr>
+</table>
+
+
